@@ -1,0 +1,5 @@
+# CeraBeads 拼豆图纸生成器 运行依赖
+numpy>=1.24
+Pillow>=9.0
+PyQt6>=6.4
+pillow-heif>=1.0        # HEIC/HEIF 支持（手机照片）
