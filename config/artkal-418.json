@@ -1,0 +1,5025 @@
+{
+ "schema": "pindou-color-palette",
+ "id": "artkal-c197-m221-418-official",
+ "title": "优肯 418（官方合并）",
+ "count": 418,
+ "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official/colors.json",
+ "colors": [
+  {
+   "code": "C01",
+   "hex": "#FFFFFF",
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C02",
+   "hex": "#000000",
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C03",
+   "hex": "#FF8200",
+   "rgb": [
+    255,
+    130,
+    0
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C04",
+   "hex": "#FF7F41",
+   "rgb": [
+    255,
+    127,
+    65
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C05",
+   "hex": "#E4002B",
+   "rgb": [
+    228,
+    0,
+    43
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C06",
+   "hex": "#BA0C2F",
+   "rgb": [
+    186,
+    12,
+    47
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C07",
+   "hex": "#EF95CF",
+   "rgb": [
+    239,
+    149,
+    207
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C08",
+   "hex": "#F04E98",
+   "rgb": [
+    240,
+    78,
+    152
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C09",
+   "hex": "#E24585",
+   "rgb": [
+    226,
+    69,
+    133
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C10",
+   "hex": "#F8E08E",
+   "rgb": [
+    248,
+    224,
+    142
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C11",
+   "hex": "#FFC72C",
+   "rgb": [
+    255,
+    199,
+    44
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C12",
+   "hex": "#9BE198",
+   "rgb": [
+    155,
+    225,
+    152
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C13",
+   "hex": "#93C90E",
+   "rgb": [
+    147,
+    201,
+    14
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C14",
+   "hex": "#009A44",
+   "rgb": [
+    0,
+    154,
+    68
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C15",
+   "hex": "#007862",
+   "rgb": [
+    0,
+    120,
+    98
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C16",
+   "hex": "#FF6A39",
+   "rgb": [
+    255,
+    106,
+    57
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C17",
+   "hex": "#FF5C39",
+   "rgb": [
+    255,
+    92,
+    57
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C18",
+   "hex": "#8DC8E8",
+   "rgb": [
+    141,
+    200,
+    232
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C19",
+   "hex": "#56B7E6",
+   "rgb": [
+    86,
+    183,
+    230
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C20",
+   "hex": "#0090DA",
+   "rgb": [
+    0,
+    144,
+    218
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C21",
+   "hex": "#004EA8",
+   "rgb": [
+    0,
+    78,
+    168
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C22",
+   "hex": "#F7CED7",
+   "rgb": [
+    247,
+    206,
+    215
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C23",
+   "hex": "#EAA794",
+   "rgb": [
+    234,
+    167,
+    148
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C24",
+   "hex": "#EFD19F",
+   "rgb": [
+    239,
+    209,
+    159
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C25",
+   "hex": "#A388D8",
+   "rgb": [
+    163,
+    136,
+    216
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C26",
+   "hex": "#9569BE",
+   "rgb": [
+    149,
+    105,
+    190
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C27",
+   "hex": "#483698",
+   "rgb": [
+    72,
+    54,
+    152
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C28",
+   "hex": "#C67D30",
+   "rgb": [
+    198,
+    125,
+    48
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C29",
+   "hex": "#A4493D",
+   "rgb": [
+    164,
+    73,
+    61
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C30",
+   "hex": "#93262C",
+   "rgb": [
+    147,
+    38,
+    44
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C31",
+   "hex": "#A37F74",
+   "rgb": [
+    163,
+    127,
+    116
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C32",
+   "hex": "#683431",
+   "rgb": [
+    104,
+    52,
+    49
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C33",
+   "hex": "#A7A8AA",
+   "rgb": [
+    167,
+    168,
+    170
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C34",
+   "hex": "#888B8D",
+   "rgb": [
+    136,
+    139,
+    141
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C35",
+   "hex": "#A09F9D",
+   "rgb": [
+    160,
+    159,
+    157
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C36",
+   "hex": "#E68699",
+   "rgb": [
+    230,
+    134,
+    153
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C37",
+   "hex": "#0067B9",
+   "rgb": [
+    0,
+    103,
+    185
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C38",
+   "hex": "#418FDE",
+   "rgb": [
+    65,
+    143,
+    222
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C39",
+   "hex": "#A4DBE8",
+   "rgb": [
+    164,
+    219,
+    232
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C40",
+   "hex": "#E1D555",
+   "rgb": [
+    225,
+    213,
+    85
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C41",
+   "hex": "#FBDB65",
+   "rgb": [
+    251,
+    219,
+    101
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C42",
+   "hex": "#FFC845",
+   "rgb": [
+    255,
+    200,
+    69
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C43",
+   "hex": "#A50034",
+   "rgb": [
+    165,
+    0,
+    52
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C44",
+   "hex": "#FF808B",
+   "rgb": [
+    255,
+    128,
+    139
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C45",
+   "hex": "#4A7C68",
+   "rgb": [
+    74,
+    124,
+    104
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C46",
+   "hex": "#F0EC74",
+   "rgb": [
+    240,
+    236,
+    116
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C47",
+   "hex": "#ECC3B2",
+   "rgb": [
+    236,
+    195,
+    178
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C48",
+   "hex": "#FFB549",
+   "rgb": [
+    255,
+    181,
+    73
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C49",
+   "hex": "#EC86D0",
+   "rgb": [
+    236,
+    134,
+    208
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C50",
+   "hex": "#C5B4E3",
+   "rgb": [
+    197,
+    180,
+    227
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C51",
+   "hex": "#F5E1A4",
+   "rgb": [
+    245,
+    225,
+    164
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C52",
+   "hex": "#5949A7",
+   "rgb": [
+    89,
+    73,
+    167
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C53",
+   "hex": "#C4D600",
+   "rgb": [
+    196,
+    214,
+    0
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C54",
+   "hex": "#00B2A9",
+   "rgb": [
+    0,
+    178,
+    169
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C55",
+   "hex": "#6CC24A",
+   "rgb": [
+    108,
+    194,
+    74
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C56",
+   "hex": "#97999B",
+   "rgb": [
+    151,
+    153,
+    155
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C57",
+   "hex": "#D50032",
+   "rgb": [
+    213,
+    0,
+    50
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C58",
+   "hex": "#2C2D65",
+   "rgb": [
+    44,
+    45,
+    101
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C59",
+   "hex": "#861F41",
+   "rgb": [
+    134,
+    31,
+    65
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C60",
+   "hex": "#BBDDE6",
+   "rgb": [
+    187,
+    221,
+    230
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C61",
+   "hex": "#F1E6B2",
+   "rgb": [
+    241,
+    230,
+    178
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C62",
+   "hex": "#FF585D",
+   "rgb": [
+    255,
+    88,
+    93
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C63",
+   "hex": "#F1A7DC",
+   "rgb": [
+    241,
+    167,
+    220
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C64",
+   "hex": "#CE0058",
+   "rgb": [
+    206,
+    0,
+    88
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C65",
+   "hex": "#E3775E",
+   "rgb": [
+    227,
+    119,
+    94
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C66",
+   "hex": "#F67599",
+   "rgb": [
+    246,
+    117,
+    153
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C67",
+   "hex": "#B14EB5",
+   "rgb": [
+    177,
+    78,
+    181
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C68",
+   "hex": "#62B5E5",
+   "rgb": [
+    98,
+    181,
+    229
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C69",
+   "hex": "#333F48",
+   "rgb": [
+    51,
+    63,
+    72
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C70",
+   "hex": "#183028",
+   "rgb": [
+    24,
+    48,
+    40
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C71",
+   "hex": "#FFA300",
+   "rgb": [
+    255,
+    163,
+    0
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C72",
+   "hex": "#FFB25B",
+   "rgb": [
+    255,
+    178,
+    91
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C73",
+   "hex": "#B86125",
+   "rgb": [
+    184,
+    97,
+    37
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C74",
+   "hex": "#D5A286",
+   "rgb": [
+    213,
+    162,
+    134
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C75",
+   "hex": "#AA8066",
+   "rgb": [
+    170,
+    128,
+    102
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C76",
+   "hex": "#FF6D6A",
+   "rgb": [
+    255,
+    109,
+    106
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C77",
+   "hex": "#B04A5A",
+   "rgb": [
+    176,
+    74,
+    90
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C78",
+   "hex": "#862633",
+   "rgb": [
+    134,
+    38,
+    51
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C79",
+   "hex": "#99D6EA",
+   "rgb": [
+    153,
+    214,
+    234
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C80",
+   "hex": "#00968F",
+   "rgb": [
+    0,
+    150,
+    143
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C81",
+   "hex": "#48A9C5",
+   "rgb": [
+    72,
+    169,
+    197
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C82",
+   "hex": "#009CBD",
+   "rgb": [
+    0,
+    156,
+    189
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C83",
+   "hex": "#0085AD",
+   "rgb": [
+    0,
+    133,
+    173
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C84",
+   "hex": "#ABAD23",
+   "rgb": [
+    171,
+    173,
+    35
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C85",
+   "hex": "#999B30",
+   "rgb": [
+    153,
+    155,
+    48
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C86",
+   "hex": "#008522",
+   "rgb": [
+    0,
+    133,
+    34
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C87",
+   "hex": "#D9D9D6",
+   "rgb": [
+    217,
+    217,
+    214
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C88",
+   "hex": "#C8C9C7",
+   "rgb": [
+    200,
+    201,
+    199
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C89",
+   "hex": "#B1B3B3",
+   "rgb": [
+    177,
+    179,
+    179
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C90",
+   "hex": "#53565A",
+   "rgb": [
+    83,
+    86,
+    90
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C91",
+   "hex": "#D69A2D",
+   "rgb": [
+    214,
+    154,
+    45
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C92",
+   "hex": "#F1C6A7",
+   "rgb": [
+    241,
+    198,
+    167
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C93",
+   "hex": "#DCA59C",
+   "rgb": [
+    220,
+    165,
+    156
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C94",
+   "hex": "#F18070",
+   "rgb": [
+    241,
+    128,
+    112
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C95",
+   "hex": "#FA9370",
+   "rgb": [
+    250,
+    147,
+    112
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C96",
+   "hex": "#EA7600",
+   "rgb": [
+    234,
+    118,
+    0
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C97",
+   "hex": "#6CACE4",
+   "rgb": [
+    108,
+    172,
+    228
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C98",
+   "hex": "#71C5E8",
+   "rgb": [
+    113,
+    197,
+    232
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C99",
+   "hex": "#63B1BC",
+   "rgb": [
+    99,
+    177,
+    188
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C100",
+   "hex": "#00A3E1",
+   "rgb": [
+    0,
+    163,
+    225
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C101",
+   "hex": "#0076CF",
+   "rgb": [
+    0,
+    118,
+    207
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C102",
+   "hex": "#0057B8",
+   "rgb": [
+    0,
+    87,
+    184
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C103",
+   "hex": "#007D9B",
+   "rgb": [
+    0,
+    125,
+    155
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C104",
+   "hex": "#007D8A",
+   "rgb": [
+    0,
+    125,
+    138
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C105",
+   "hex": "#006A8E",
+   "rgb": [
+    0,
+    106,
+    142
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C106",
+   "hex": "#007096",
+   "rgb": [
+    0,
+    112,
+    150
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C107",
+   "hex": "#D5CB9F",
+   "rgb": [
+    213,
+    203,
+    159
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C108",
+   "hex": "#CFC493",
+   "rgb": [
+    207,
+    196,
+    147
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C109",
+   "hex": "#C0B561",
+   "rgb": [
+    192,
+    181,
+    97
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C110",
+   "hex": "#998542",
+   "rgb": [
+    153,
+    133,
+    66
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C111",
+   "hex": "#897630",
+   "rgb": [
+    137,
+    118,
+    48
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C112",
+   "hex": "#CAC7A7",
+   "rgb": [
+    202,
+    199,
+    167
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C113",
+   "hex": "#BFBB98",
+   "rgb": [
+    191,
+    187,
+    152
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C114",
+   "hex": "#B0AA7E",
+   "rgb": [
+    176,
+    170,
+    126
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C115",
+   "hex": "#899064",
+   "rgb": [
+    137,
+    144,
+    100
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C116",
+   "hex": "#7A7256",
+   "rgb": [
+    122,
+    114,
+    86
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C117",
+   "hex": "#5B792F",
+   "rgb": [
+    91,
+    121,
+    47
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C118",
+   "hex": "#9CDBD9",
+   "rgb": [
+    156,
+    219,
+    217
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C119",
+   "hex": "#7AE1BF",
+   "rgb": [
+    122,
+    225,
+    191
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C120",
+   "hex": "#77C19A",
+   "rgb": [
+    119,
+    193,
+    154
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C121",
+   "hex": "#00B467",
+   "rgb": [
+    0,
+    180,
+    103
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C122",
+   "hex": "#37C400",
+   "rgb": [
+    55,
+    196,
+    0
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C123",
+   "hex": "#257226",
+   "rgb": [
+    37,
+    114,
+    38
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C124",
+   "hex": "#008675",
+   "rgb": [
+    0,
+    134,
+    117
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C125",
+   "hex": "#007367",
+   "rgb": [
+    0,
+    115,
+    103
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C126",
+   "hex": "#DFC8E7",
+   "rgb": [
+    223,
+    200,
+    231
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C127",
+   "hex": "#D48BC8",
+   "rgb": [
+    212,
+    139,
+    200
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C128",
+   "hex": "#EABEDB",
+   "rgb": [
+    234,
+    190,
+    219
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C129",
+   "hex": "#DD74A1",
+   "rgb": [
+    221,
+    116,
+    161
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C130",
+   "hex": "#C1A0DA",
+   "rgb": [
+    193,
+    160,
+    218
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C131",
+   "hex": "#FB637E",
+   "rgb": [
+    251,
+    99,
+    126
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C132",
+   "hex": "#C800A1",
+   "rgb": [
+    200,
+    0,
+    161
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C133",
+   "hex": "#87189D",
+   "rgb": [
+    135,
+    24,
+    157
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C134",
+   "hex": "#AAB7E8",
+   "rgb": [
+    170,
+    183,
+    232
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C135",
+   "hex": "#B9B7E7",
+   "rgb": [
+    185,
+    183,
+    231
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C136",
+   "hex": "#7BA2E1",
+   "rgb": [
+    123,
+    162,
+    225
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C137",
+   "hex": "#5F8DDA",
+   "rgb": [
+    95,
+    141,
+    218
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C138",
+   "hex": "#5576D1",
+   "rgb": [
+    85,
+    118,
+    209
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C139",
+   "hex": "#485CC7",
+   "rgb": [
+    72,
+    92,
+    199
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C140",
+   "hex": "#476ACD",
+   "rgb": [
+    71,
+    106,
+    205
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C141",
+   "hex": "#365ABD",
+   "rgb": [
+    54,
+    90,
+    189
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C142",
+   "hex": "#3448AA",
+   "rgb": [
+    52,
+    72,
+    170
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C143",
+   "hex": "#002D72",
+   "rgb": [
+    0,
+    45,
+    114
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C144",
+   "hex": "#E9E186",
+   "rgb": [
+    233,
+    225,
+    134
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C145",
+   "hex": "#A6192E",
+   "rgb": [
+    166,
+    25,
+    46
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C146",
+   "hex": "#86C8BC",
+   "rgb": [
+    134,
+    200,
+    188
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C147",
+   "hex": "#866761",
+   "rgb": [
+    134,
+    103,
+    97
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C148",
+   "hex": "#EFDBB2",
+   "rgb": [
+    239,
+    219,
+    178
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C149",
+   "hex": "#8B84D7",
+   "rgb": [
+    139,
+    132,
+    215
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C150",
+   "hex": "#3E4827",
+   "rgb": [
+    62,
+    72,
+    39
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C151",
+   "hex": "#C0AEE4",
+   "rgb": [
+    192,
+    174,
+    228
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C152",
+   "hex": "#C2BDE0",
+   "rgb": [
+    194,
+    189,
+    224
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C153",
+   "hex": "#F3CFB3",
+   "rgb": [
+    243,
+    207,
+    179
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C154",
+   "hex": "#C58B68",
+   "rgb": [
+    197,
+    139,
+    104
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C155",
+   "hex": "#63666A",
+   "rgb": [
+    99,
+    102,
+    106
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C156",
+   "hex": "#4B4F54",
+   "rgb": [
+    75,
+    79,
+    84
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "C157",
+   "hex": "#1D252D",
+   "rgb": [
+    29,
+    37,
+    45
+   ],
+   "group": "C",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CE01",
+   "hex": "#D1DDE6",
+   "rgb": [
+    209,
+    221,
+    230
+   ],
+   "group": "CE",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CE02",
+   "hex": "#9BB8D3",
+   "rgb": [
+    155,
+    184,
+    211
+   ],
+   "group": "CE",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CE03",
+   "hex": "#6AD1E3",
+   "rgb": [
+    106,
+    209,
+    227
+   ],
+   "group": "CE",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CE04",
+   "hex": "#03C1AA",
+   "rgb": [
+    3,
+    193,
+    170
+   ],
+   "group": "CE",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CE05",
+   "hex": "#2CD5C4",
+   "rgb": [
+    44,
+    213,
+    196
+   ],
+   "group": "CE",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CE06",
+   "hex": "#147BD1",
+   "rgb": [
+    20,
+    123,
+    209
+   ],
+   "group": "CE",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CE07",
+   "hex": "#BFA5B8",
+   "rgb": [
+    191,
+    165,
+    184
+   ],
+   "group": "CE",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CE08",
+   "hex": "#9B7793",
+   "rgb": [
+    155,
+    119,
+    147
+   ],
+   "group": "CE",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CE09",
+   "hex": "#693C5E",
+   "rgb": [
+    105,
+    60,
+    94
+   ],
+   "group": "CE",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CE10",
+   "hex": "#C964CF",
+   "rgb": [
+    201,
+    100,
+    207
+   ],
+   "group": "CE",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CE11",
+   "hex": "#AD1AAC",
+   "rgb": [
+    173,
+    26,
+    172
+   ],
+   "group": "CE",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CE12",
+   "hex": "#FFC27B",
+   "rgb": [
+    255,
+    194,
+    123
+   ],
+   "group": "CE",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CE13",
+   "hex": "#E6A65D",
+   "rgb": [
+    230,
+    166,
+    93
+   ],
+   "group": "CE",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CE14",
+   "hex": "#D38235",
+   "rgb": [
+    211,
+    130,
+    53
+   ],
+   "group": "CE",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CE15",
+   "hex": "#C16C18",
+   "rgb": [
+    193,
+    108,
+    24
+   ],
+   "group": "CE",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CE16",
+   "hex": "#F5B6CD",
+   "rgb": [
+    245,
+    182,
+    205
+   ],
+   "group": "CE",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CE17",
+   "hex": "#5D2A2C",
+   "rgb": [
+    93,
+    42,
+    44
+   ],
+   "group": "CE",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CG01",
+   "hex": "#B2B9BF",
+   "rgb": [
+    178,
+    185,
+    191
+   ],
+   "group": "CG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CG02",
+   "hex": "#BEA6BA",
+   "rgb": [
+    190,
+    166,
+    186
+   ],
+   "group": "CG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CG03",
+   "hex": "#62B6D8",
+   "rgb": [
+    98,
+    182,
+    216
+   ],
+   "group": "CG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CG04",
+   "hex": "#8985C1",
+   "rgb": [
+    137,
+    133,
+    193
+   ],
+   "group": "CG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CG05",
+   "hex": "#CB9D96",
+   "rgb": [
+    203,
+    157,
+    150
+   ],
+   "group": "CG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CG06",
+   "hex": "#8ABA96",
+   "rgb": [
+    138,
+    186,
+    150
+   ],
+   "group": "CG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CG07",
+   "hex": "#94637F",
+   "rgb": [
+    148,
+    99,
+    127
+   ],
+   "group": "CG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CP01",
+   "hex": "#8ECAB2",
+   "rgb": [
+    142,
+    202,
+    178
+   ],
+   "group": "CP",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CP02",
+   "hex": "#CD8F75",
+   "rgb": [
+    205,
+    143,
+    117
+   ],
+   "group": "CP",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CP03",
+   "hex": "#CBA16C",
+   "rgb": [
+    203,
+    161,
+    108
+   ],
+   "group": "CP",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CP04",
+   "hex": "#BC8DA4",
+   "rgb": [
+    188,
+    141,
+    164
+   ],
+   "group": "CP",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CP05",
+   "hex": "#8A506A",
+   "rgb": [
+    138,
+    80,
+    106
+   ],
+   "group": "CP",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CP06",
+   "hex": "#3063A3",
+   "rgb": [
+    48,
+    99,
+    163
+   ],
+   "group": "CP",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CP07",
+   "hex": "#3E5694",
+   "rgb": [
+    62,
+    86,
+    148
+   ],
+   "group": "CP",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CT01",
+   "hex": "#C6C6D2",
+   "rgb": [
+    198,
+    198,
+    210
+   ],
+   "group": "CT",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CT02",
+   "hex": "#E664A6",
+   "rgb": [
+    230,
+    100,
+    166
+   ],
+   "group": "CT",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CT03",
+   "hex": "#F6875C",
+   "rgb": [
+    246,
+    135,
+    92
+   ],
+   "group": "CT",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CT04",
+   "hex": "#C4C764",
+   "rgb": [
+    196,
+    199,
+    100
+   ],
+   "group": "CT",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CT05",
+   "hex": "#32B195",
+   "rgb": [
+    50,
+    177,
+    149
+   ],
+   "group": "CT",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CT06",
+   "hex": "#757DD1",
+   "rgb": [
+    117,
+    125,
+    209
+   ],
+   "group": "CT",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CT07",
+   "hex": "#4EB1DC",
+   "rgb": [
+    78,
+    177,
+    220
+   ],
+   "group": "CT",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CT08",
+   "hex": "#5688A0",
+   "rgb": [
+    86,
+    136,
+    160
+   ],
+   "group": "CT",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "CT09",
+   "hex": "#6B849D",
+   "rgb": [
+    107,
+    132,
+    157
+   ],
+   "group": "CT",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA1",
+   "hex": "#FFF6D4",
+   "rgb": [
+    255,
+    246,
+    212
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA2",
+   "hex": "#F6F9E5",
+   "rgb": [
+    246,
+    249,
+    229
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA3",
+   "hex": "#FFFBAA",
+   "rgb": [
+    255,
+    251,
+    170
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA4",
+   "hex": "#FFDF58",
+   "rgb": [
+    255,
+    223,
+    88
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA5",
+   "hex": "#FECF4D",
+   "rgb": [
+    254,
+    207,
+    77
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA6",
+   "hex": "#FFA80C",
+   "rgb": [
+    255,
+    168,
+    12
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA7",
+   "hex": "#FF8837",
+   "rgb": [
+    255,
+    136,
+    55
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA8",
+   "hex": "#EAC431",
+   "rgb": [
+    234,
+    196,
+    49
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA9",
+   "hex": "#F1AA8F",
+   "rgb": [
+    241,
+    170,
+    143
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA10",
+   "hex": "#FF8F42",
+   "rgb": [
+    255,
+    143,
+    66
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA11",
+   "hex": "#FFE1A1",
+   "rgb": [
+    255,
+    225,
+    161
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA12",
+   "hex": "#F4B39C",
+   "rgb": [
+    244,
+    179,
+    156
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA13",
+   "hex": "#FFB100",
+   "rgb": [
+    255,
+    177,
+    0
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA14",
+   "hex": "#FF6510",
+   "rgb": [
+    255,
+    101,
+    16
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA15",
+   "hex": "#DAF05C",
+   "rgb": [
+    218,
+    240,
+    92
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA16",
+   "hex": "#F9FBBE",
+   "rgb": [
+    249,
+    251,
+    190
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA17",
+   "hex": "#FFD976",
+   "rgb": [
+    255,
+    217,
+    118
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA18",
+   "hex": "#FFCA9A",
+   "rgb": [
+    255,
+    202,
+    154
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA19",
+   "hex": "#EC7A92",
+   "rgb": [
+    236,
+    122,
+    146
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA20",
+   "hex": "#E5BE55",
+   "rgb": [
+    229,
+    190,
+    85
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA21",
+   "hex": "#FFE596",
+   "rgb": [
+    255,
+    229,
+    150
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA22",
+   "hex": "#F7E898",
+   "rgb": [
+    247,
+    232,
+    152
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA23",
+   "hex": "#F0CBB1",
+   "rgb": [
+    240,
+    203,
+    177
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA24",
+   "hex": "#F5FCD1",
+   "rgb": [
+    245,
+    252,
+    209
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA25",
+   "hex": "#F6D487",
+   "rgb": [
+    246,
+    212,
+    135
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MA26",
+   "hex": "#FFCB4B",
+   "rgb": [
+    255,
+    203,
+    75
+   ],
+   "group": "MA",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB1",
+   "hex": "#D2E318",
+   "rgb": [
+    210,
+    227,
+    24
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB2",
+   "hex": "#79CD41",
+   "rgb": [
+    121,
+    205,
+    65
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB3",
+   "hex": "#82D7A1",
+   "rgb": [
+    130,
+    215,
+    161
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB4",
+   "hex": "#65DF4F",
+   "rgb": [
+    101,
+    223,
+    79
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB5",
+   "hex": "#5FC873",
+   "rgb": [
+    95,
+    200,
+    115
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB6",
+   "hex": "#49D1AE",
+   "rgb": [
+    73,
+    209,
+    174
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB7",
+   "hex": "#009696",
+   "rgb": [
+    0,
+    150,
+    150
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB8",
+   "hex": "#08774F",
+   "rgb": [
+    8,
+    119,
+    79
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB9",
+   "hex": "#183823",
+   "rgb": [
+    24,
+    56,
+    35
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB10",
+   "hex": "#83CFC3",
+   "rgb": [
+    131,
+    207,
+    195
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB11",
+   "hex": "#5A6A27",
+   "rgb": [
+    90,
+    106,
+    39
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB12",
+   "hex": "#045F45",
+   "rgb": [
+    4,
+    95,
+    69
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB13",
+   "hex": "#E2FFB3",
+   "rgb": [
+    226,
+    255,
+    179
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB14",
+   "hex": "#9DD12E",
+   "rgb": [
+    157,
+    209,
+    46
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB15",
+   "hex": "#254B3C",
+   "rgb": [
+    37,
+    75,
+    60
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB16",
+   "hex": "#D0FCAD",
+   "rgb": [
+    208,
+    252,
+    173
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB17",
+   "hex": "#8CA12A",
+   "rgb": [
+    140,
+    161,
+    42
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB18",
+   "hex": "#D2D958",
+   "rgb": [
+    210,
+    217,
+    88
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB19",
+   "hex": "#49BCA9",
+   "rgb": [
+    73,
+    188,
+    169
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB20",
+   "hex": "#E8FDEC",
+   "rgb": [
+    232,
+    253,
+    236
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB21",
+   "hex": "#188B81",
+   "rgb": [
+    24,
+    139,
+    129
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB22",
+   "hex": "#0C5C5B",
+   "rgb": [
+    12,
+    92,
+    91
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB23",
+   "hex": "#3D461B",
+   "rgb": [
+    61,
+    70,
+    27
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB24",
+   "hex": "#EAFCB6",
+   "rgb": [
+    234,
+    252,
+    182
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB25",
+   "hex": "#538771",
+   "rgb": [
+    83,
+    135,
+    113
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB26",
+   "hex": "#8A7A40",
+   "rgb": [
+    138,
+    122,
+    64
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB27",
+   "hex": "#D2DEB6",
+   "rgb": [
+    210,
+    222,
+    182
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB28",
+   "hex": "#9FF4C2",
+   "rgb": [
+    159,
+    244,
+    194
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB29",
+   "hex": "#BBD747",
+   "rgb": [
+    187,
+    215,
+    71
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB30",
+   "hex": "#F5FFE6",
+   "rgb": [
+    245,
+    255,
+    230
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB31",
+   "hex": "#BFE1C2",
+   "rgb": [
+    191,
+    225,
+    194
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MB32",
+   "hex": "#9FBA5C",
+   "rgb": [
+    159,
+    186,
+    92
+   ],
+   "group": "MB",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC1",
+   "hex": "#D5E3DE",
+   "rgb": [
+    213,
+    227,
+    222
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC2",
+   "hex": "#BBF1F4",
+   "rgb": [
+    187,
+    241,
+    244
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC3",
+   "hex": "#73C0DF",
+   "rgb": [
+    115,
+    192,
+    223
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC4",
+   "hex": "#33B3E1",
+   "rgb": [
+    51,
+    179,
+    225
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC5",
+   "hex": "#00A3CA",
+   "rgb": [
+    0,
+    163,
+    202
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC6",
+   "hex": "#58A0D9",
+   "rgb": [
+    88,
+    160,
+    217
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC7",
+   "hex": "#0588CC",
+   "rgb": [
+    5,
+    136,
+    204
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC8",
+   "hex": "#005F9E",
+   "rgb": [
+    0,
+    95,
+    158
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC9",
+   "hex": "#086FB9",
+   "rgb": [
+    8,
+    111,
+    185
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC10",
+   "hex": "#52B4E0",
+   "rgb": [
+    82,
+    180,
+    224
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC11",
+   "hex": "#00A9B9",
+   "rgb": [
+    0,
+    169,
+    185
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC12",
+   "hex": "#1C375A",
+   "rgb": [
+    28,
+    55,
+    90
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC13",
+   "hex": "#CEE0F0",
+   "rgb": [
+    206,
+    224,
+    240
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC14",
+   "hex": "#EBF5F4",
+   "rgb": [
+    235,
+    245,
+    244
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC15",
+   "hex": "#00AAAD",
+   "rgb": [
+    0,
+    170,
+    173
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC16",
+   "hex": "#004C7D",
+   "rgb": [
+    0,
+    76,
+    125
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC17",
+   "hex": "#5BD4F6",
+   "rgb": [
+    91,
+    212,
+    246
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC18",
+   "hex": "#36515C",
+   "rgb": [
+    54,
+    81,
+    92
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC19",
+   "hex": "#0F909D",
+   "rgb": [
+    15,
+    144,
+    157
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC20",
+   "hex": "#0084B7",
+   "rgb": [
+    0,
+    132,
+    183
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC21",
+   "hex": "#DDECFA",
+   "rgb": [
+    221,
+    236,
+    250
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC22",
+   "hex": "#84BAC2",
+   "rgb": [
+    132,
+    186,
+    194
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC23",
+   "hex": "#CBDBDB",
+   "rgb": [
+    203,
+    219,
+    219
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC24",
+   "hex": "#88BDE2",
+   "rgb": [
+    136,
+    189,
+    226
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC25",
+   "hex": "#B3ECE0",
+   "rgb": [
+    179,
+    236,
+    224
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC26",
+   "hex": "#3E9EBF",
+   "rgb": [
+    62,
+    158,
+    191
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC27",
+   "hex": "#E9F0F3",
+   "rgb": [
+    233,
+    240,
+    243
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC28",
+   "hex": "#C2CDE3",
+   "rgb": [
+    194,
+    205,
+    227
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MC29",
+   "hex": "#586B8F",
+   "rgb": [
+    88,
+    107,
+    143
+   ],
+   "group": "MC",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD1",
+   "hex": "#7292E2",
+   "rgb": [
+    114,
+    146,
+    226
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD2",
+   "hex": "#6E8CCC",
+   "rgb": [
+    110,
+    140,
+    204
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD3",
+   "hex": "#13419A",
+   "rgb": [
+    19,
+    65,
+    154
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD4",
+   "hex": "#1E3175",
+   "rgb": [
+    30,
+    49,
+    117
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD5",
+   "hex": "#B850B2",
+   "rgb": [
+    184,
+    80,
+    178
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD6",
+   "hex": "#AD92E9",
+   "rgb": [
+    173,
+    146,
+    233
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD7",
+   "hex": "#5F2D91",
+   "rgb": [
+    95,
+    45,
+    145
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD8",
+   "hex": "#D7CDF1",
+   "rgb": [
+    215,
+    205,
+    241
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD9",
+   "hex": "#BDB2E6",
+   "rgb": [
+    189,
+    178,
+    230
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD10",
+   "hex": "#251B58",
+   "rgb": [
+    37,
+    27,
+    88
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD11",
+   "hex": "#A2BBE7",
+   "rgb": [
+    162,
+    187,
+    231
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD12",
+   "hex": "#CF8BBE",
+   "rgb": [
+    207,
+    139,
+    190
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD13",
+   "hex": "#B80096",
+   "rgb": [
+    184,
+    0,
+    150
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD14",
+   "hex": "#A137A7",
+   "rgb": [
+    161,
+    55,
+    167
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD15",
+   "hex": "#4A388A",
+   "rgb": [
+    74,
+    56,
+    138
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD16",
+   "hex": "#DCE8F6",
+   "rgb": [
+    220,
+    232,
+    246
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD17",
+   "hex": "#AECEF0",
+   "rgb": [
+    174,
+    206,
+    240
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD18",
+   "hex": "#B38EDB",
+   "rgb": [
+    179,
+    142,
+    219
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD19",
+   "hex": "#E8D2EA",
+   "rgb": [
+    232,
+    210,
+    234
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD20",
+   "hex": "#B460C3",
+   "rgb": [
+    180,
+    96,
+    195
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD21",
+   "hex": "#842A94",
+   "rgb": [
+    132,
+    42,
+    148
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD22",
+   "hex": "#4B5E9E",
+   "rgb": [
+    75,
+    94,
+    158
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD23",
+   "hex": "#D6D2E2",
+   "rgb": [
+    214,
+    210,
+    226
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD24",
+   "hex": "#7776D1",
+   "rgb": [
+    119,
+    118,
+    209
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD25",
+   "hex": "#3837A8",
+   "rgb": [
+    56,
+    55,
+    168
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MD26",
+   "hex": "#DDC8DD",
+   "rgb": [
+    221,
+    200,
+    221
+   ],
+   "group": "MD",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME1",
+   "hex": "#FDD6C9",
+   "rgb": [
+    253,
+    214,
+    201
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME2",
+   "hex": "#FFD8F4",
+   "rgb": [
+    255,
+    216,
+    244
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME3",
+   "hex": "#FFA0C3",
+   "rgb": [
+    255,
+    160,
+    195
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME4",
+   "hex": "#F67AAB",
+   "rgb": [
+    246,
+    122,
+    171
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME5",
+   "hex": "#DA5B95",
+   "rgb": [
+    218,
+    91,
+    149
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME6",
+   "hex": "#FF4B78",
+   "rgb": [
+    255,
+    75,
+    120
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME7",
+   "hex": "#9E156B",
+   "rgb": [
+    158,
+    21,
+    107
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME8",
+   "hex": "#FFE1E6",
+   "rgb": [
+    255,
+    225,
+    230
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME9",
+   "hex": "#F378CA",
+   "rgb": [
+    243,
+    120,
+    202
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME10",
+   "hex": "#BE316D",
+   "rgb": [
+    190,
+    49,
+    109
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME11",
+   "hex": "#FFE8DA",
+   "rgb": [
+    255,
+    232,
+    218
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME12",
+   "hex": "#FFA5C6",
+   "rgb": [
+    255,
+    165,
+    198
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME13",
+   "hex": "#B53883",
+   "rgb": [
+    181,
+    56,
+    131
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME14",
+   "hex": "#FFDDC7",
+   "rgb": [
+    255,
+    221,
+    199
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME15",
+   "hex": "#E5C6D0",
+   "rgb": [
+    229,
+    198,
+    208
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME16",
+   "hex": "#F9F2EB",
+   "rgb": [
+    249,
+    242,
+    235
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME17",
+   "hex": "#E7DCE6",
+   "rgb": [
+    231,
+    220,
+    230
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME18",
+   "hex": "#FFD3E6",
+   "rgb": [
+    255,
+    211,
+    230
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME19",
+   "hex": "#FFD5EC",
+   "rgb": [
+    255,
+    213,
+    236
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME20",
+   "hex": "#F3DCE8",
+   "rgb": [
+    243,
+    220,
+    232
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME21",
+   "hex": "#BD9CA3",
+   "rgb": [
+    189,
+    156,
+    163
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME22",
+   "hex": "#C578A5",
+   "rgb": [
+    197,
+    120,
+    165
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME23",
+   "hex": "#A37A9B",
+   "rgb": [
+    163,
+    122,
+    155
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "ME24",
+   "hex": "#F4E8FF",
+   "rgb": [
+    244,
+    232,
+    255
+   ],
+   "group": "ME",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF1",
+   "hex": "#FF7F67",
+   "rgb": [
+    255,
+    127,
+    103
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF2",
+   "hex": "#FF5D46",
+   "rgb": [
+    255,
+    93,
+    70
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF3",
+   "hex": "#E3564A",
+   "rgb": [
+    227,
+    86,
+    74
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF4",
+   "hex": "#C7270D",
+   "rgb": [
+    199,
+    39,
+    13
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF5",
+   "hex": "#BE0A27",
+   "rgb": [
+    190,
+    10,
+    39
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF6",
+   "hex": "#83411E",
+   "rgb": [
+    131,
+    65,
+    30
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF7",
+   "hex": "#730037",
+   "rgb": [
+    115,
+    0,
+    55
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF8",
+   "hex": "#AB0022",
+   "rgb": [
+    171,
+    0,
+    34
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF9",
+   "hex": "#DE7995",
+   "rgb": [
+    222,
+    121,
+    149
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF10",
+   "hex": "#AB613C",
+   "rgb": [
+    171,
+    97,
+    60
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF11",
+   "hex": "#5C2929",
+   "rgb": [
+    92,
+    41,
+    41
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF12",
+   "hex": "#F34461",
+   "rgb": [
+    243,
+    68,
+    97
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF13",
+   "hex": "#C64239",
+   "rgb": [
+    198,
+    66,
+    57
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF14",
+   "hex": "#FFA5BB",
+   "rgb": [
+    255,
+    165,
+    187
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF15",
+   "hex": "#BC0018",
+   "rgb": [
+    188,
+    0,
+    24
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF16",
+   "hex": "#FFD7CB",
+   "rgb": [
+    255,
+    215,
+    203
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF17",
+   "hex": "#F19D8A",
+   "rgb": [
+    241,
+    157,
+    138
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF18",
+   "hex": "#DC7B45",
+   "rgb": [
+    220,
+    123,
+    69
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF19",
+   "hex": "#C74651",
+   "rgb": [
+    199,
+    70,
+    81
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF20",
+   "hex": "#D8A89E",
+   "rgb": [
+    216,
+    168,
+    158
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF21",
+   "hex": "#EB9DB9",
+   "rgb": [
+    235,
+    157,
+    185
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF22",
+   "hex": "#FFD4D4",
+   "rgb": [
+    255,
+    212,
+    212
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF23",
+   "hex": "#EA8474",
+   "rgb": [
+    234,
+    132,
+    116
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF24",
+   "hex": "#F7C1C5",
+   "rgb": [
+    247,
+    193,
+    197
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MF25",
+   "hex": "#FC5768",
+   "rgb": [
+    252,
+    87,
+    104
+   ],
+   "group": "MF",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG1",
+   "hex": "#FFE7C8",
+   "rgb": [
+    255,
+    231,
+    200
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG2",
+   "hex": "#FFD6C3",
+   "rgb": [
+    255,
+    214,
+    195
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG3",
+   "hex": "#EEB694",
+   "rgb": [
+    238,
+    182,
+    148
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG4",
+   "hex": "#D9A58C",
+   "rgb": [
+    217,
+    165,
+    140
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG5",
+   "hex": "#F49630",
+   "rgb": [
+    244,
+    150,
+    48
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG6",
+   "hex": "#F19937",
+   "rgb": [
+    241,
+    153,
+    55
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG7",
+   "hex": "#AC745B",
+   "rgb": [
+    172,
+    116,
+    91
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG8",
+   "hex": "#694A42",
+   "rgb": [
+    105,
+    74,
+    66
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG9",
+   "hex": "#F7CC9D",
+   "rgb": [
+    247,
+    204,
+    157
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG10",
+   "hex": "#C7832F",
+   "rgb": [
+    199,
+    131,
+    47
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG11",
+   "hex": "#D3C391",
+   "rgb": [
+    211,
+    195,
+    145
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG12",
+   "hex": "#E6B986",
+   "rgb": [
+    230,
+    185,
+    134
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG13",
+   "hex": "#C67B4F",
+   "rgb": [
+    198,
+    123,
+    79
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG14",
+   "hex": "#8D6242",
+   "rgb": [
+    141,
+    98,
+    66
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG15",
+   "hex": "#F6F7E2",
+   "rgb": [
+    246,
+    247,
+    226
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG16",
+   "hex": "#F2E7D7",
+   "rgb": [
+    242,
+    231,
+    215
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG17",
+   "hex": "#786562",
+   "rgb": [
+    120,
+    101,
+    98
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG18",
+   "hex": "#FEF5EB",
+   "rgb": [
+    254,
+    245,
+    235
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG19",
+   "hex": "#F0AB47",
+   "rgb": [
+    240,
+    171,
+    71
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG20",
+   "hex": "#AE6949",
+   "rgb": [
+    174,
+    105,
+    73
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MG21",
+   "hex": "#BF8C6E",
+   "rgb": [
+    191,
+    140,
+    110
+   ],
+   "group": "MG",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH1",
+   "hex": "#FFFFFF",
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH2",
+   "hex": "#FFFFFF",
+   "rgb": [
+    255,
+    255,
+    255
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH3",
+   "hex": "#9B9B9B",
+   "rgb": [
+    155,
+    155,
+    155
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH4",
+   "hex": "#6D6D6D",
+   "rgb": [
+    109,
+    109,
+    109
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH5",
+   "hex": "#4D4D4D",
+   "rgb": [
+    77,
+    77,
+    77
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH6",
+   "hex": "#3A3A3A",
+   "rgb": [
+    58,
+    58,
+    58
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH7",
+   "hex": "#000000",
+   "rgb": [
+    0,
+    0,
+    0
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH8",
+   "hex": "#FFF0F1",
+   "rgb": [
+    255,
+    240,
+    241
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH9",
+   "hex": "#E3E6DF",
+   "rgb": [
+    227,
+    230,
+    223
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH10",
+   "hex": "#E2E0E7",
+   "rgb": [
+    226,
+    224,
+    231
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH11",
+   "hex": "#BCB8B5",
+   "rgb": [
+    188,
+    184,
+    181
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH12",
+   "hex": "#F7F3E1",
+   "rgb": [
+    247,
+    243,
+    225
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH13",
+   "hex": "#EADDC8",
+   "rgb": [
+    234,
+    221,
+    200
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH14",
+   "hex": "#B8C8C5",
+   "rgb": [
+    184,
+    200,
+    197
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH15",
+   "hex": "#99ABAC",
+   "rgb": [
+    153,
+    171,
+    172
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH16",
+   "hex": "#444236",
+   "rgb": [
+    68,
+    66,
+    54
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH17",
+   "hex": "#FAFBF5",
+   "rgb": [
+    250,
+    251,
+    245
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH18",
+   "hex": "#FEFEEE",
+   "rgb": [
+    254,
+    254,
+    238
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH19",
+   "hex": "#FBF2E4",
+   "rgb": [
+    251,
+    242,
+    228
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH20",
+   "hex": "#9EAEAD",
+   "rgb": [
+    158,
+    174,
+    173
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH21",
+   "hex": "#FDFFF2",
+   "rgb": [
+    253,
+    255,
+    242
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH22",
+   "hex": "#EDEDE7",
+   "rgb": [
+    237,
+    237,
+    231
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MH23",
+   "hex": "#B4B8A7",
+   "rgb": [
+    180,
+    184,
+    167
+   ],
+   "group": "MH",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MM1",
+   "hex": "#AEBBA8",
+   "rgb": [
+    174,
+    187,
+    168
+   ],
+   "group": "MM",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MM2",
+   "hex": "#729376",
+   "rgb": [
+    114,
+    147,
+    118
+   ],
+   "group": "MM",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MM3",
+   "hex": "#6A8890",
+   "rgb": [
+    106,
+    136,
+    144
+   ],
+   "group": "MM",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MM4",
+   "hex": "#BEB39D",
+   "rgb": [
+    190,
+    179,
+    157
+   ],
+   "group": "MM",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MM5",
+   "hex": "#B8B78C",
+   "rgb": [
+    184,
+    183,
+    140
+   ],
+   "group": "MM",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MM6",
+   "hex": "#B2AC93",
+   "rgb": [
+    178,
+    172,
+    147
+   ],
+   "group": "MM",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MM7",
+   "hex": "#BC9F94",
+   "rgb": [
+    188,
+    159,
+    148
+   ],
+   "group": "MM",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MM8",
+   "hex": "#968381",
+   "rgb": [
+    150,
+    131,
+    129
+   ],
+   "group": "MM",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MM9",
+   "hex": "#B39D88",
+   "rgb": [
+    179,
+    157,
+    136
+   ],
+   "group": "MM",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MM10",
+   "hex": "#B796A3",
+   "rgb": [
+    183,
+    150,
+    163
+   ],
+   "group": "MM",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MM11",
+   "hex": "#B096B9",
+   "rgb": [
+    176,
+    150,
+    185
+   ],
+   "group": "MM",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MM12",
+   "hex": "#685951",
+   "rgb": [
+    104,
+    89,
+    81
+   ],
+   "group": "MM",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MM13",
+   "hex": "#C79582",
+   "rgb": [
+    199,
+    149,
+    130
+   ],
+   "group": "MM",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MM14",
+   "hex": "#CA694F",
+   "rgb": [
+    202,
+    105,
+    79
+   ],
+   "group": "MM",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  },
+  {
+   "code": "MM15",
+   "hex": "#929FA9",
+   "rgb": [
+    146,
+    159,
+    169
+   ],
+   "group": "MM",
+   "name": "",
+   "source": "HansBug/pindou-color-data/artkal-c197-m221-418-official"
+  }
+ ]
+}
