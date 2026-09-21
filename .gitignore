@@ -1,0 +1,14 @@
+runtime/
+build/
+dist/
+*.pyc
+__pycache__/
+*.egg-info/
+_error.log
+_selftest.txt
+_*.py
+~$*
+Thumbs.db
+desktop.ini
+.DS_Store
+*.lnk
